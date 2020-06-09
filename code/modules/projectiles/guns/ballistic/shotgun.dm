@@ -357,7 +357,7 @@
 	weapon_weight = WEAPON_HEAVY
 	recoil = 1 
 	fire_delay = 6
-	projectile_speed = 0.3
+	projectile_speed = 0.7
 	extra_damage = 55
 	extra_penetration = 25
 
